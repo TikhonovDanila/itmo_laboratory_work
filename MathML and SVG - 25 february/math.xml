@@ -1,0 +1,39 @@
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <xsl:output method="xml" encoding="UTF-8"/>
+    <xsl:template match="/">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <mrow>
+                <mi>σ</mi>
+                <mo>=</mo>
+                <msqrt>
+                    <mfrac>
+                        <mn>1</mn>
+                        <mi>N</mi>
+                    </mfrac>
+                    <munderover>
+                        <mo>∑</mo>
+                        <mrow>
+                            <mi>i</mi>
+                            <mo>=</mo>
+                            <mn>1</mn>
+                        </mrow>
+                        <mi>N</mi>
+                    </munderover>
+                    <msup>
+                        <mrow>
+                            <mo>(</mo>
+                            <msub>
+                                <mi>x</mi>
+                                <mi>i</mi>
+                            </msub>
+                            <mo>-</mo>
+                            <mi>μ</mi>
+                            <mo>)</mo>
+                        </mrow>
+                        <mn>2</mn>
+                    </msup>
+                </msqrt>
+            </mrow>
+        </math>
+    </xsl:template>
+</xsl:stylesheet>
