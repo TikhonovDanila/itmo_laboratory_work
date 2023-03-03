@@ -4,14 +4,3 @@ main{
     justify-content: center;
     align-items: center;
 }
-button{
-    padding: 15px;
-    background-color: #8a6df1;
-    border: 0;
-    border-radius: 5px;
-}
-button:hover{
-    transition: 1s;
-    background-color: #ac1842;
-    cursor: pointer;
-}
