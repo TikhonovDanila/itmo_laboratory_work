@@ -15,9 +15,28 @@
             <article class="mb-5">
                 <h1>Практическое задание по преобразованию в SVG (к 25 февраля)</h1>
             </article>
+            <section class="mb-3" >
+                    <select id="xslt-select" >
+                        <option value="math-ml">Math ML XSLT</option>
+                        <option value="svg">SVG XSLT</option>
+                    </select>
+            </section>
+            <section class="mb-3" >
+                <button id="math" type="button" class="btn btn-primary">Загрузить MathML</button>
+                <button id="svg" type="button" class="btn btn-primary">Загрузить SVG</button>
+            </section>
+            <section class="mb-3" >
+                <div class="row">
+                    <div class="col-5">
+                        <textarea name="xml-input" id="xml-input" cols="30" rows="15"></textarea>
+                    </div>
+                    <div class="col-7">
+                        <div id="output"></div>
+                    </div>
+                </div>
+            </section>
             <section class="mb-3">
-                <button id="task1" type="button" class="btn btn-primary">Задание 1: MathML</button>
-                <button id="task2" type="button" class="btn btn-primary">Задание 2: SVG</button>
+                <button id="btnTransform" onclick="applyTransform()" type="button" class="btn btn-success">Преобразовать</button>
             </section>
             <section>
                 <button id="back" type="button" class="btn btn-dark">Вернуться на главную</button>
