@@ -12,7 +12,7 @@
 </head>
 <body>
         <main class="container mt-5">
-            <div class="row">
+            <div class="row mb-5">
                 <article class="mb-5">
                     <h1>Студент: Тихонов Данила, гр. Р4110.</h1>
                     <p class="text-start">Магистерская программа "Веб-технологии" — 2022г.</p>
@@ -29,7 +29,20 @@
                         <li class="list-group-item"><a href="https://tikhonovdanila.github.io/itmo_laboratory_work/2022_01dec/" target="_blank">Лабораторная работа №1 - Генерация облака с тегами из текста</a></li>
                     </ul>
                 </section>
+
             </div>
+            <section class="d-flex justify-content-center">
+                <button onclick="back()" id="back" type="button" class="btn btn-dark">Вернуться в Github repository</button>
+            </section>
        </main>
 </body>
+<script>
+    function back(){
+        const back = document.querySelector('#back');
+
+        back.addEventListener('click', ()=>{
+            window.location.href = 'https://github.com/TikhonovDanila/itmo_laboratory_work';
+        })
+    }
+</script>
 </html>
