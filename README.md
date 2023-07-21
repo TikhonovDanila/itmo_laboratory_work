@@ -5,5 +5,5 @@
 
 ## [Ссылка на Github Pages](https://webdevsites.github.io/itmo_laboratory_work/)
 Лабораторные работы по дисциплине "Исследование экосистем веб-языков и веб-технологий"
-1. ### [Лабораторная работа №1 - Генерация облака с тегами из текста](https://github.com/webdevsites/itmo_laboratory_work/tree/main/2022_01dec)
-2. ### [Лабораторная работа №2- Практическое задание по преобразованию в SVG (к 25 февраля)](https://github.com/webdevsites/itmo_laboratory_work/tree/main/2023_25feb)
+1. ### [Лабораторная работа №1 - Генерация облака с тегами из текста](https://github.com/webdevsites.github.io/itmo_laboratory_work/tree/main/2022_01dec)
+2. ### [Лабораторная работа №2- Практическое задание по преобразованию в SVG (к 25 февраля)](https://github.com/webdevsites.github.io/itmo_laboratory_work/tree/main/2023_25feb)
