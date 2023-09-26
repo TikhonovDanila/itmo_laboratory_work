@@ -4,7 +4,7 @@ const svg = document.querySelector('#svg');
 const back = document.querySelector('#back');
 
 back.addEventListener('click', ()=>{
-    window.location.href = 'https://webs1tes.github.io/itmo_laboratory_work/';
+    window.location.href = 'https://TikhonovDanila.github.io/itmo_laboratory_work/';
 })
 const parser = new DOMParser();
 const serializer = new XMLSerializer();
