@@ -9,6 +9,6 @@
 
 ## [Ссылка на Github Pages](https://TikhonovDanila.github.io/itmo_laboratory_work/)
 Лабораторные работы по дисциплине "Исследование экосистем веб-языков и веб-технологий"
-1. ### [Лабораторная работа №1 - Генерация облака с тегами из текста](https://github.com/TikhonovDanila.github.io/itmo_laboratory_work/tree/main/2022_01dec)
-2. ### [Лабораторная работа №2- Практическое задание по преобразованию в SVG (к 25 февраля)](https://github.com/TikhonovDanila.github.io/itmo_laboratory_work/tree/main/2023_25feb)
-3. ### [Производственная, технологическая (проектно-технологическая) №1](https://github.com/TikhonovDanila.github.io/itmo_laboratory_work/tree/main/2023_25feb)
+1. ### [Лабораторная работа №1 - Генерация облака с тегами из текста](https://TikhonovDanila.github.io/itmo_laboratory_work/2022_01dec/)
+2. ### [Лабораторная работа №2- Практическое задание по преобразованию в SVG (к 25 февраля)](https://TikhonovDanila.github.io/itmo_laboratory_work/2023_25feb/)
+3. ### [Производственная, технологическая (проектно-технологическая) №1](https://TikhonovDanila.github.io/itmo_laboratory_work/2023_dec/web-dictionary.json)
