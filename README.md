@@ -8,7 +8,9 @@
 2 Курс - Дисциплина «Серверные веб-технологии и системы управления контентом» 
 
 ## [Ссылка на Github Pages](https://TikhonovDanila.github.io/itmo_laboratory_work/)
-Лабораторные работы по дисциплине "Исследование экосистем веб-языков и веб-технологий"
+Лабораторные работы по дисциплине "Исследование экосистем веб-языков и веб-технологий":
 1. ### [Лабораторная работа №1 - Генерация облака с тегами из текста](https://TikhonovDanila.github.io/itmo_laboratory_work/2022_01dec/)
 2. ### [Лабораторная работа №2- Практическое задание по преобразованию в SVG (к 25 февраля)](https://TikhonovDanila.github.io/itmo_laboratory_work/2023_25feb/)
-3. ### [Производственная, технологическая (проектно-технологическая) №1](https://TikhonovDanila.github.io/itmo_laboratory_work/2023_dec/web-dictionary.json)
+Технологическая практика:
+1. ### [Производственная, технологическая (проектно-технологическая) №1](https://TikhonovDanila.github.io/itmo_laboratory_work/2023_dec/)
+2. ### [Код](https://github.com/TikhonovDanila/web_dictionary/tree/main)
