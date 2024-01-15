@@ -15,3 +15,6 @@
 1. ### [Производственная, технологическая (проектно-технологическая) №1](https://TikhonovDanila.github.io/itmo_laboratory_work/tech_practice_1/)
 2. ### [Репозиторий глоссария](https://github.com/TikhonovDanila/web_dictionary/tree/main)
 3. ### [Массив с терминами - Web_dictionary.json](https://TikhonovDanila.github.io/itmo_laboratory_work/2023_18dec/web_dictionary.json)
+Научно-исследовательская работа №3:
+1.  ### [Результаты тестирования фреймворка Fresh в формате json](https://TikhonovDanila.github.io/itmo_laboratory_work/2024_15jan/fresh-test.json)
+2.  ### [Результаты тестирования фреймворка Nestjs в формате json](https://TikhonovDanila.github.io/itmo_laboratory_work/2024_15jan/nest-test.json)
